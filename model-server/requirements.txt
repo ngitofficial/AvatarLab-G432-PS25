@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+requests
+nltk
+# Specific torch/torchvision/torchaudio versions are handled by SadTalker's install steps
+# styletts2 is handled by installing directly from the cloned repo
+# basicsr and filterpy are handled by SadTalker's install steps
